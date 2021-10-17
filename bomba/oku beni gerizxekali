@@ -1,0 +1,6 @@
+gerekli boklar 
+sudo pacman -S feh sxhkd bspwm picom conky kitty qutebrowser rofi
+yay -S polybar (aura yada paruda olr) 
+koy bunlari .confige  
+background icin .config/bspwm/autostart.sh dosyasina bak
+.config/bspwm/sxhkdrc ye bak shortcutlar icin
