@@ -1,0 +1,14 @@
+{
+  "key.keyboard.b": "MultiAura",
+  "key.keyboard.comma": "SpeedHack",
+  "key.keyboard.g": "X-Ray",
+  "key.keyboard.keypad.9": "InstantBunker",
+  "key.keyboard.l": "Freecam",
+  "key.keyboard.left.bracket": "AutoMine",
+  "key.keyboard.m": "ScaffoldWalk",
+  "key.keyboard.page.down": "clickgui",
+  "key.keyboard.page.up": "navigator",
+  "key.keyboard.right.bracket": "AntiAFK",
+  "key.keyboard.x": "Flight",
+  "key.keyboard.z": "AutoFish"
+}
