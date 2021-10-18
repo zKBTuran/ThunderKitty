@@ -1,0 +1,14 @@
+[SddmGreeterTheme]
+Name=ArcoLinux-Fralonra
+Description=ArcoLinux SDDM theme
+Author=Fralonra
+License=GPL3.0
+Type=sddm-theme
+Version=0.1
+Website=https://github.com/arcolinux/arcolinux-sddm-fralonra
+Screenshot=screenshot.jpg
+MainScript=Main.qml
+ConfigFile=theme.conf
+Email=erik.dubois@gmail.com
+Theme-Id=arcolinux-fralonra
+Theme-API=2.0
